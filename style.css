@@ -4,8 +4,12 @@ body{
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 
 }
-
-
+.textcenter{
+	text-align:center;
+}
+.top50{
+margin-top:50vh;
+}
 .container {
   padding: 40px;
 }
@@ -107,7 +111,64 @@ background-color:#555;
 
 .neverbeeneasier{
 	background-color:grey;
-	height:980px;
+	height:100vh;
 	width:100%;
+	overflow:hidden;
 }
+.stealofthemonth{
+	background-color:white;
+	height:50vh;
+	width:100%;
+
+
+}
+
+.latestworks{
+height:100vh;
+background-color:#444;
+width:100%;
+}
+
+.amberis{
+height:10vh;
+width:100%;
+background-color:#0ac2a9;
+}
+
+
+.Superb{
+height:50vh;
+width:100%;
+background-color:#fff;
+
+}
+
+.quote{
+
+height:50vh;
+width:100%;
+background-color:#444;
+}
+
+.latestblog{
+
+height:50vh;
+width:100%;
+background-color:#fff;
+}
+
+.company{
+height:50vh;
+width:100%;
+background-color:#0ac2a9;
+
+}
+
+.ourexp{
+height:50vh;
+width:100%;
+background-color:#fff;
+
+}
+
 
